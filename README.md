@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Julen Casajus
+- 👀 I was born on May 22, 2001, in Spain
+- 🌱 I’m currently studying Computer Science
+- 💞️ I speak Spanish, English, German, Basque and Italian
+- 📫 How to reach me: casajusjulen@gmail.com
