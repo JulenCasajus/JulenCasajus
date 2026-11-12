@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Julen Casajús
-- 🌱 I was born on 2001 in Spain
-- ☃️ I speak Spanish, English, German and Basque
-- 📫 How to reach me: casajusjulen@gmail.com
+
